@@ -1,4 +1,4 @@
-This script automates the installation, set up and execution of the following: 
+This script automates the installation (tested on Ubuntu 24.04.4), set up and execution of the following: 
 - NVIDIA drivers
 - Docker
 - Ollama
